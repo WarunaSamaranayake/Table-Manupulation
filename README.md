@@ -1,0 +1,2 @@
+# Table-Manupulation
+Answer for ACM NATIONAL SCOLOSTIC PROGRAMMING CONTEST
